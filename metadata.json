@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Pulse — Live Market Terminal & AI Analyst",
+  "description": "Real-time financial market trends, live stock price streaming, interactive technical charting, paper trading execution, and an AI financial research chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
